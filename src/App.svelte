@@ -36,7 +36,7 @@
 <div class="section">
   <div class="field has-addons">
     <input type="text" class="input" bind:value={input} />
-    <button class="button is-success" on:click={add}>Add todo</button>
+    <button class="button is-success" on:click={add}>Add todo !!</button>
   </div>
 </div>
 
